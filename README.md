@@ -2,7 +2,7 @@
 
 **BOLD FLAVORS. UNFORGETTABLE BITES.**
 
-A modern, responsive restaurant ordering website built with React.js and Vite as part of the CSCI426 – Advanced Web Programming course.
+A modern, responsive restaurant ordering website built with React.js and Vite as part of the **CSCI426 – Advanced Web Programming** course.
 
 ## About the Project
 
@@ -12,6 +12,24 @@ The website combines a cinematic dark design with an orange and cream color pale
 
 Customers can explore the menu, view product details, add products to their shopping cart, and submit their orders through WhatsApp.
 
+## Website Screenshots
+
+### Home Page
+![NOIR Home Page](public/Screenshot/Home.png)
+
+### Menu Page
+![NOIR Menu Page](public/Screenshot/Menu.png)
+
+### About Page
+![NOIR About Page](public/Screenshot/About.png)
+
+### Contact Page
+![NOIR Contact Page](public/Screenshot/Contact.png)
+### Shopping Cart
+![NOIR Shopping Cart](public/Screenshot/Cart.png)
+
+### Checkout Page
+![NOIR Checkout](public/Screenshot/Checkout.png)
 ## Main Features
 
 - Responsive homepage with a cinematic hero section.
@@ -39,6 +57,7 @@ Customers can explore the menu, view product details, add products to their shop
 ```text
 noir-restaurant/
 ├── public/
+│   └── Screenshot/
 ├── src/
 │   ├── assets/
 │   ├── components/
@@ -60,7 +79,7 @@ noir-restaurant/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/92230122-svg/noir-restaurant.git
 ```
 
 ### 2. Navigate to the project folder
