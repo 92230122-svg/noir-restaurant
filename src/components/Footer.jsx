@@ -10,7 +10,7 @@ import {
 
 function Footer() {
   return (
-    <footer className="noir-footer">
+    <footer className="noir-footear">
       <div className="container">
 
         <div className="row gy-5">

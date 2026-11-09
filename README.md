@@ -30,8 +30,10 @@ Customers can explore the menu, view product details, add products to their shop
 
 ### Checkout Page
 ![NOIR Checkout](public/Screenshot/Checkout.png)
-## Main Features
+## 🌐 Live Website
+Visit NOIR: https://noir-restaurant-rust.vercel.app
 
+## Main Features
 - Responsive homepage with a cinematic hero section.
 - About page introducing the restaurant.
 - Interactive food menu.
